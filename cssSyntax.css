@@ -1,0 +1,14 @@
+#video {
+/* background-image: url(https://images.pexels.com/photos/3774243/pexels-photo-3774243.jpeg?auto=compress&cs=tinysrgb&w=600); */
+ /* Background image added */
+ /* background-color: rgb(255, 255, 255); */
+ /* Background color changed to white */
+ margin-left: 0px;
+}
+#Welcome {
+  color: black;
+}
+h1.testHeader {
+  color: rgb(255, 0, 0);
+  background-color: blue;
+}
